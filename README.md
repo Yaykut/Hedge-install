@@ -1,5 +1,12 @@
 # Hedge-install
 
+API  https://hedge-api.validator247.com
+
+RPC https://hedge-rpc.validator247.com
+
+Explorer https://explorer.validator247.com/Hedge-Testnet/staking
+
+
 Update && Upgrade:
 
     sudo apt update && sudo apt upgrade -y
